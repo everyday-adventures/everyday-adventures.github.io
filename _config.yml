@@ -1,2 +1,3 @@
 name: Everyday Adventurer
 markdown: kramdown
+permalink: /posts/:year/:month/:day/:title
