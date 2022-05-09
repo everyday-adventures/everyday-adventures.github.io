@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Everyday Adventures"
 date: 2022-05-08
 ---
 
